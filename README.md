@@ -1,1 +1,1 @@
-# Hotel
+This is the second project, as a part of the OOP course in Faculty of Mathematics and Informatics of the Sofia University. For more information on how to work with the project, check the documentation of project, placed in the folder docs.
